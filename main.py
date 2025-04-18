@@ -1,4 +1,3 @@
-# take home assessment from layup parts
 # Name: David D
 
 import time
